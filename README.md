@@ -8,7 +8,7 @@ An offline neon-noir action and surveillance game by Nick, Baris & Max.
 
 ## Playing
 
-Choose New Game, follow the voiced introduction, select a character, and enter the night. On iPhone and iPad, move with the left joystick and use the action icons. On Mac, use WASD to move, the mouse to aim/fire, right click for melee, R to reload, Space for the character ability, E to interact, and Escape to pause. Leon's ability charges while held and releases when let go. Cleared-room doors open automatically; select Continue after clearing a night.
+Choose ENTER THE NIGHT, follow the voiced introduction, select a character, and enter the night. On iPhone and iPad, move with the left joystick and use the action icons. On Mac, use WASD to move, the mouse to aim/fire, right click for melee, R to reload, Space for the character ability, E to interact, and Escape to pause. Leon's ability charges while held and releases when let go. Cleared-room doors open automatically; select Continue after clearing a night.
 
 Research, character unlocks, and settings save locally. An active night run is session-only. There is no account, multiplayer service, advertising, subscription, or real-money purchase. Randomized rewards use only research earned by playing.
 
