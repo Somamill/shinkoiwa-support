@@ -1,25 +1,23 @@
 # Privacy Policy — Shinkoiwa Sardistic
 
-Effective November 16, 2026.
+Effective November 17, 2026.
 
-Shinkoiwa Sardistic is an offline game by Nick, Baris & Max. The game does not collect, transmit, sell, or share personal data. It has no account registration, advertisements, analytics SDK, tracking, microphone recording, location access, or remote AI service. Character dialogue audio is bundled with the app; no player voice is recorded or uploaded.
+Shinkoiwa Sardistic is a game by Nick, Baris & Max. The developers do not operate a player-data server or collect, sell, track or share player data. There is no in-game account registration, advertising, analytics SDK, microphone recording, location access or remote AI service. Dialogue is bundled audio; player voices are never recorded or uploaded.
 
-## On-device storage
+## Local storage
 
-The game stores settings, research, collection unlocks, and progression records in its local app storage. These files remain on your device. Current night runs are session-only. Uninstalling the app removes app-local data according to your operating system's behavior; system backups may retain copies under your device settings.
+Settings, research, collections, forge ranks and records are stored on your device. Current nights are session-only. Uninstalling removes app-local data according to the operating system; system backups can retain copies under your settings.
 
-## Apple services
+## Optional Game Center and iCloud
 
-The App Store and TestFlight are operated by Apple. Apple may process purchase/download information and diagnostics under its own privacy policy and the sharing choices you make with Apple. The game does not integrate its own analytics or crash-upload service.
+Version 0.6.0 adds optional Apple Game Center authentication, achievements and private iCloud saved-game storage. Local offline play does not require these features. When enabled, the app sends achievement identifiers/progress and persistent game progression to Apple's services. A Game Center player identifier is used in memory and a local hash isolates saved-game slots by account. The developers do not receive your Apple credentials, Game Center profile or private iCloud save files.
 
-## Support links
+Cloud progression includes collection ownership, forge ranks, research, shards and records. Active nights and device controls are excluded. Cloud conflicts require a choice; local backups preserve previous snapshots. Turning cloud saves off stops future in-app synchronization; existing Apple cloud data is managed through your Apple account and system storage settings. Apple operates these services under its privacy policy. App Store/TestFlight downloads and any diagnostics you choose to share are also processed by Apple.
 
-If you choose to open the support link, your browser connects to GitHub, which has its own privacy policy. Public support issues are visible to others; do not include personal or sensitive information. Information you voluntarily post is used to understand and respond to your support request.
+## Support
 
-## Children and content
+Opening a support link connects your browser to GitHub under its privacy policy. Public issues are visible to others; do not include sensitive information. Voluntarily posted information is used to respond to the request. [Contact the project](https://github.com/Somamill/shinkoiwa-support/issues/new) for privacy questions.
 
-This horror/action game is not directed at children. It contains fictional combat, weapons, horror themes and occasional startling effects. Refer to the App Store age rating.
+## Audience and updates
 
-## Contact and updates
-
-For privacy questions or requests about information you voluntarily posted for support, [contact the project through a support issue](https://github.com/Somamill/shinkoiwa-support/issues/new). This policy will be updated if the game's data practices change.
+This horror/action game is not directed at children. See the App Store age rating. This policy will change if the game's data practices change.
