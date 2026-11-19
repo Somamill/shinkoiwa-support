@@ -12,12 +12,12 @@ README.md; existing support/privacy/notice pages; verify factual claims against 
 
 ## Tools and checks
 
-Static documentation: link/content/privacy consistency checks. No native build or gameplay validation is implied by a support-page edit. Preserve the game identity; do not invent a new app design. For task-specific tool choice, verify current availability/configuration using the shared tool map. Record the actual checks and rendered evidence in the task PR; this context file alone is not test evidence.
+Static documentation: link/content/privacy consistency checks. No native build or gameplay validation is implied by a support-page edit. Preserve the game identity; do not invent a new app design. For task-specific tool choice, verify current availability/configuration using the host tool inventory. Record the actual checks and rendered evidence in the task PR; this context file alone is not test evidence.
 
 ## Localization readiness
 
-Support text must match the languages actually supported/advertised by the corresponding game. Shared localization targets are not proof of translated support pages.
+Support text must match the languages actually supported/advertised by the corresponding game. Check which support pages are actually translated.
 
 ## Maintenance and releases
 
-Update the cited design docs and this context in the same change when the design/architecture/stack or acceptance gates change. Review shared requirements through the local updater; do not edit managed policy files directly. Keep unresolved gaps in the task/release evidence. Actions remain disabled; no new Apple publication is authorized by these documentation changes.
+Update the cited design docs and this context in the same change when the design/architecture/stack or acceptance gates change. Keep project requirements here and use the independent validation tooling as needed. Keep unresolved gaps in the task/release evidence. Actions remain disabled; no new Apple publication is authorized by these documentation changes.
