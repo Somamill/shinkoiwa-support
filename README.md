@@ -1,6 +1,10 @@
 # Shinkoiwa Sardistic — Support
 
+<img src="media/shinkoiwa-icon.png" width="112" height="112" alt="Shinkoiwa Sardistic app icon">
+
 An offline neon-noir action and surveillance game by Nick, Baris & Max.
+
+[App Store](https://apps.apple.com/app/id6835122148) · [Deutsch](SUPPORT.de.md) · [日本語](SUPPORT.ja.md)
 
 ## Get help
 
@@ -11,6 +15,16 @@ An offline neon-noir action and surveillance game by Nick, Baris & Max.
 Choose ENTER THE NIGHT, follow the voiced introduction, select a character, and enter the night. On iPhone and iPad, move with the left joystick and use the action icons. On Mac, use WASD to move, the mouse to aim/fire, right click for melee, R to reload, Space for the character ability, E to interact, and Escape to pause. Leon's ability charges while held and releases when let go. Cleared-room doors open automatically; select Continue after clearing a night.
 
 Research, character unlocks, and settings save locally. An active night run is session-only. There is no account, multiplayer service, advertising, subscription, or real-money purchase. Randomized rewards use only research earned by playing.
+
+## Saves and updates
+
+When your build offers **Settings → Game Center / iCloud**, sign in to Game Center and enable iCloud Drive to use optional cloud saves. Keep the game open until the sync status finishes. If the game asks which save to use, check the night and collection counts first. Keep your current installation until you confirm the progress you want is available. Include the sync status in a support report and keep account details private.
+
+App Store and TestFlight versions can differ. Check the version on the game’s main menu when reporting an issue.
+
+![Sophia courtyard on the game’s CCTV monitor](media/shinkoiwa-cctv.jpg)
+
+CCTV preview from the 0.6.12 test build. Features depend on the build you install.
 
 ## Privacy and notices
 

@@ -8,16 +8,16 @@ Public support/privacy documentation for Shinkoiwa; game source remains in its s
 
 ## Actual design/context sources
 
-README.md; existing support/privacy/notice pages; verify factual claims against the game release
+README.md and localized support guides; PRIVACY.md; THIRD_PARTY.md; approved game exports in media/README.md. Verify factual claims against the game release.
 
 ## Tools and checks
 
-Static documentation: link/content/privacy consistency checks. No native build or gameplay validation is implied by a support-page edit. Preserve the game identity; do not invent a new app design. For task-specific tool choice, verify current availability/configuration using the host tool inventory. Record the actual checks and rendered evidence in the task PR; this context file alone is not test evidence.
+Static documentation: link/content/privacy consistency checks. No native build or gameplay validation is implied by a support-page edit. The game project owns the identity. Use its approved public assets and record source revisions. For task-specific tool choice, verify current availability/configuration using the shared tool map. Record the actual checks and rendered evidence in the task PR; this context file alone is not test evidence.
 
 ## Localization readiness
 
-Support text must match the languages actually supported/advertised by the corresponding game. Check which support pages are actually translated.
+Support text must match the languages actually supported/advertised by the corresponding game. Maintain the English, German and Japanese help pages alongside the game. Future twelve-language coverage requires translated help, privacy and notices, script-appropriate text and native RTL review.
 
 ## Maintenance and releases
 
-Update the cited design docs and this context in the same change when the design/architecture/stack or acceptance gates change. Keep project requirements here and use the independent validation tooling as needed. Keep unresolved gaps in the task/release evidence. Actions remain disabled; no new Apple publication is authorized by these documentation changes.
+Update the cited design docs and this context in the same change when the design/architecture/stack or acceptance gates change. Use the shared Mac command-line tools for neutral checks. This project owns its policy and does not synchronize membership or styling rules. Keep unresolved gaps in the task/release evidence. Actions remain disabled; no new Apple publication is authorized by these documentation changes.
