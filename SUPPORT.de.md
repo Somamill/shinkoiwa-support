@@ -15,3 +15,5 @@ Falls deine Version **Einstellungen → Game Center / iCloud** anbietet, melde d
 App Store und TestFlight können unterschiedliche Versionen anbieten. Die installierte Version steht im Hauptmenü.
 
 [Datenschutz (Englisch)](PRIVACY.md) · [Hinweise zu Drittanbietern (Englisch)](THIRD_PARTY.md)
+
+Fragen, Ideen oder einen Fehler entdeckt? [Schreib Max](mailto:max@miller-max.com). Wir freuen uns über Feedback.
