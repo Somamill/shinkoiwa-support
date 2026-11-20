@@ -39,3 +39,5 @@ This support repository contains public documentation only. The game source repo
 ## Contact
 
 Questions, ideas, or spotted a bug? [Email Max](mailto:max@miller-max.com). Feedback is always welcome.
+
+[Support Max on Ko-fi](https://ko-fi.com/somamill)
