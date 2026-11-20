@@ -1,5 +1,9 @@
 # Shinkoiwa Sardistic — Support
 
+[![App Store: Open](https://img.shields.io/badge/App%20Store-Open-26374D?style=for-the-badge&logo=github&logoColor=white)](https://apps.apple.com/app/id6835122148) [![Reddit: Max on dot.](https://img.shields.io/badge/Reddit-Max%20on%20dot.-AD3000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/dot-app/)
+
+[App Store](https://apps.apple.com/app/id6835122148) | [Max on Reddit](https://www.reddit.com/user/dot-app/) | [Contact](#contact)
+
 <img src="media/shinkoiwa-icon.png" width="112" height="112" alt="Shinkoiwa Sardistic app icon">
 
 An offline neon-noir action and surveillance game by Nick, Baris & Max.
