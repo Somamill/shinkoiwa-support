@@ -31,3 +31,7 @@ CCTV preview from the 0.6.12 test build. Features depend on the build you instal
 [Privacy Policy](PRIVACY.md) · [Third-party notices](THIRD_PARTY.md)
 
 This support repository contains public documentation only. The game source repository remains private.
+
+## Contact
+
+Questions, ideas, or spotted a bug? [Email Max](mailto:max@miller-max.com). Feedback is always welcome.

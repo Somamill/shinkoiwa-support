@@ -15,3 +15,5 @@
 App Store と TestFlight では配信バージョンが異なる場合があります。インストール済みのバージョンはメインメニューで確認できます。
 
 [プライバシーポリシー（英語）](PRIVACY.md) · [第三者ライセンス（英語）](THIRD_PARTY.md)
+
+ご質問・ご要望・不具合の報告は、[Maxにメール](mailto:max@miller-max.com)でお気軽にどうぞ。
